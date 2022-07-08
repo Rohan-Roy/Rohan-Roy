@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan-Roy
+- 👋 Hi, I’m Rohan Roy
 - 👀 I’m interested in Cloud Services, Machine Learning and Deep Learning
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
