@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Roy
 - 👀 I’m interested in Cloud Services, Machine Learning and Deep Learning
-- 🌱 I’m currently doing MS in AI from UT Austin
+- 🌱 I’m currently pursuing MS in AI from UT Austin
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
 <!--- - 📫 How to reach me ...
 --->
